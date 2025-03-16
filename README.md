@@ -8,7 +8,7 @@
 - 💻 I'm currently working on developing full-stack web applications using MERN stack
 - 📚 I'm learning advanced ML/AI concepts and cloud technologies
 - 🤝 I'm looking to collaborate on open-source projects and innovative web applications
-- 💡 Ask me about Full Stack Development, Machine Learning, and Data Science
+- 💡 Ask me about Full Stack Development & DSA.
 - ✨ Fun fact: I love turning complex problems into simple, elegant solutions
 
 ## 🔗 Connect With Me

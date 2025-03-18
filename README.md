@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Aman Asthana</h1>
-  <p>🚀 Full Stack Developer | 🤖 Machine Learning Enthusiast</p>
+  <p>🚀 Full Stack Developer </p>
 </div>
 
 ## 🎯 About Me

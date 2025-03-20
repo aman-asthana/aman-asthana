@@ -16,8 +16,8 @@
 <div>
 <p>
 <a href="https://linkedin.com/in/aman-asthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushrahuja" height="30" width="40" /></a>
-<a href="https://instagram.com/tushrahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushrahuja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tushrahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushrahuja" height="30" width="40" /></a>
+<a href="https://instagram.com/aman-asthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushrahuja" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tushrahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman-asthana" height="30" width="40" /></a>
 </p>
 </div>
 
